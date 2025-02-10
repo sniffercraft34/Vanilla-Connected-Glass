@@ -1,0 +1,6 @@
+{
+    "parent": "block/glass",
+    "textures": {
+        "glass": "block/orange_stained_glass"
+    }
+}

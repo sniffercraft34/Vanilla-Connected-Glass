@@ -1,0 +1,32 @@
+{
+	"credit": "Made by sniffercraft34",
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "#pane"
+	},
+	"elements": [
+		{
+			"from": [7, 1, 7],
+			"to": [9, 15, 9],
+			"faces": {
+				"north": {"uv": [9, 1, 7, 15], "texture": "#pane"}
+			}
+		},
+		{
+			"from": [7, 0, 7],
+			"to": [9, 1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 1], "texture": "#pane", "cullface": "down"}
+			}
+		},
+		{
+			"from": [7, 15, 7],
+			"to": [9, 16, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 15, 9]},
+			"faces": {
+				"north": {"uv": [0, 0, 2, 1], "texture": "#pane", "cullface": "up"}
+			}
+		}
+	]
+}
