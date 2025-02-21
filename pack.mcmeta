@@ -1,7 +1,10 @@
 {
     "pack": {
-        "description": "Connected Glass, but no OptiFine and works with any resource pack",
+        "description": "Connected Glass in Vanilla",
         "pack_format": 15,
-        "supported_formats": {"min_inclusive": 15, "max_inclusive": 99}
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 99
+        }
     }
 }
