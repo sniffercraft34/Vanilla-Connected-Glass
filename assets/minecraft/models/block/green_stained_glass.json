@@ -1,5 +1,5 @@
 {
-    "parent": "block/glass",
+    "parent": "block/glass_ctm",
     "textures": {
         "glass": "block/green_stained_glass"
     }
