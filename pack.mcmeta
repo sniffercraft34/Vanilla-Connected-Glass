@@ -1,6 +1,9 @@
 {
   "pack": {
     "description": "Connected Glass in Vanilla",
-    "pack_format": 69.0
+    "pack_format": 69,
+    "min_format": 64,
+    "max_format": 69,
+    "supported_formats": [64, 69]
   }
 }
